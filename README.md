@@ -8,12 +8,12 @@ My expertise lies in implementing clean, scalable, and robust architectures, lev
 
 🛠️ Technologies & Tools:
 
-	•	Languages: Node.js, TypeScript, PHP, Python, Go, JavaScript, HTML5, CSS
-	•	Frameworks: React.js, Next.js, NestJS, Symfony, CodeIgniter, jQuery
-	•	DevOps: Git, Docker, Kubernetes, GitHub Actions, CI/CD
-	•	Databases: MongoDB, MySQL, PostgreSQL, Redis, ElasticSearch
-	•	Cloud: AWS (EC2, S3, RDS, Lambda), Google Cloud Platform (Pub/Sub, Kubernetes), Digital Ocean, Vercel
-	•	Other Tools: Grafana, Supabase, JIRA
+- Languages: Node.js, TypeScript, PHP, Python, Go, JavaScript, HTML5, CSS
+- Frameworks: React.js, Next.js, NestJS, Symfony, CodeIgniter, jQuery
+- DevOps: Git, Docker, Kubernetes, GitHub Actions, CI/CD
+- Databases: MongoDB, MySQL, PostgreSQL, Redis, ElasticSearch
+- Cloud: AWS (EC2, S3, RDS, Lambda), Google Cloud Platform (Pub/Sub, Kubernetes), Digital Ocean, Vercel
+- Other Tools: Grafana, Supabase, JIRA
 
 🚀 Current Focus:
 
@@ -21,13 +21,13 @@ I am currently deepening my knowledge in Go, Python, and advanced cloud technolo
 
 💼 Experience Highlights:
 
-	•	Pactolus: Led the regional expansion and development of a scalable electronic invoicing system for Cencosud, handling over 25,000 transactions daily.
-	•	ClassTrack: Developed a curricular management system used by over 200 schools in Chile, recognized for its innovation in the educational sector.
-	•	Codelovers Chile: Co-founded and led projects using LAMP, MERN, and React Native, managing complex infrastructures on AWS and Digital Ocean.
-	•	Suksa: Spearheaded the transition from FTP to Git and implemented JIRA for project management, significantly improving development efficiency.
+- Pactolus: Led the regional expansion and development of a scalable electronic invoicing system for Cencosud, handling over 25,000 transactions daily.
+- ClassTrack: Developed a curricular management system used by over 200 schools in Chile, recognized for its innovation in the educational sector.
+- Codelovers Chile: Co-founded and led projects using LAMP, MERN, and React Native, managing complex infrastructures on AWS and Digital Ocean.
+- Suksa: Spearheaded the transition from FTP to Git and implemented JIRA for project management, significantly improving development efficiency.
 
 🌱 Interests:
 
-	•	Clean and scalable software architectures
-	•	Emerging technologies and their application in solving complex problems
-	•	Mentorship and the development of technical talent
+- Clean and scalable software architectures
+- Emerging technologies and their application in solving complex problems
+- Mentorship and the development of technical talent
